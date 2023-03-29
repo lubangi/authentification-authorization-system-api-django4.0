@@ -1,2 +1,2 @@
 # Full-stack-Django-and-React
-Full-stack Django and React, published by Packt
+This is the part 1 of my project Social Media App using Django Posgresql and react
